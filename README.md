@@ -1,2 +1,2 @@
 # Food-Ordering
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/images/SwiftLogo.png)
