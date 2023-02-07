@@ -9,6 +9,8 @@
 - Chi tiết món ăn
 - Đặt món
 
+## Sử dụng singleton pattern, thư viện Kingfisher và thư viện ProgressHUD
+
 
 
 <table>
